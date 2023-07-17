@@ -1,0 +1,10 @@
+{
+  "resourceMetadataKEY": "yes",
+  "serviceListKEY": [
+    {
+      "programNameKEY": "putty",
+      "protocolTypeKEY": "tcp",
+      "portRangeKEY": "22"
+    }
+  ]
+}
