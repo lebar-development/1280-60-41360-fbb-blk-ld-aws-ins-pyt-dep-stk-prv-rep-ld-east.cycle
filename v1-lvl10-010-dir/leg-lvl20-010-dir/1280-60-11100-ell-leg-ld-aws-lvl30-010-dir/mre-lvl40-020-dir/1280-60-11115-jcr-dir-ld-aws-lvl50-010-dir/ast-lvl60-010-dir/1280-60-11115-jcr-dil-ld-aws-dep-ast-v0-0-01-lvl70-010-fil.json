@@ -1,0 +1,10 @@
+{
+  "resourceMetadataKEY": "yes",
+  "assetFileNameKEY": "dir",
+  "assetFileTypeKEY": "folder",
+  "assetFilePathKEY": "asset_path",
+  "assetMetadataKEY": {
+    "assetMetadata1KEY": "value1",
+    "assetMetadata2KEY": "value2"
+  }
+}
